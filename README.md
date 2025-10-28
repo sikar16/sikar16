@@ -67,23 +67,11 @@ I build with creativity, precision, and purpose — aiming to make every line of
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sikar16&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikar16&langs_count=8&layout=compact&theme=radical&hide_border=false&hide=html,css,scss" />
+
   <img width="48%" src="https://streak-stats.demolab.com?user=sikar16&theme=radical&hide_border=false" />
 </p>
 
-<!-- 🧮 Corrected Most Used Languages -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikar16&langs_count=8&layout=compact&theme=radical&hide_border=false&hide=html,css,scss" />
-</p>
-
----
-
-
-### 📅 Contribution Graph  
-
-![Sikar’s Graph](https://github-readme-activity-graph.vercel.app/graph?username=sikar16&theme=react-dark&hide_border=true&area=true)
-
----
 
 ### ✨ Fun Fact  
 > “The best code is not the one that works — it’s the one that others love to maintain.”  
