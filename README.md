@@ -1,14 +1,14 @@
-<!-- 🌸 Pink Gradient Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there+👋;+I'm+Sikar+Yosef.;Software+Engineer+|+AI+Engineer+|+Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there+👋;+I'm+Sikar+Yosef.;Software+Engineer+|+Full-Stack+Developer;" />
 
 ---
 
-### 👨‍💻 About Me  
-I’m a **Software Engineer** passionate about designing intelligent, scalable, and user-centered systems.  
-My focus areas include **AI engineering**, **web technologies**, and **system design** — turning complex problems into elegant digital solutions.  
+👨‍💻 About Me
 
-💡 Exploring cutting-edge frameworks and agentic AI systems.  
-⚙️ Building automation tools and backend APIs.  
+I’m a Software Engineer passionate about designing intelligent, scalable, and user-centered systems.
+My focus areas include web technologies, system design, and I am currently learning Flutter to build modern mobile applications.
+
+💡 Exploring cutting-edge frameworks and agentic AI systems.
+⚙️ Building automation tools and backend APIs.
 🤝 Open to collaborations and impactful tech opportunities.
 
 ---
@@ -22,32 +22,23 @@ My focus areas include **AI engineering**, **web technologies**, and **system de
 ---
 
 ### 💻 Tech Stack  
-
-#### 🚀 Frontend  
+ 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-#### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### 🧠 AI & Data  
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) 
 ![AI](https://img.shields.io/badge/AI-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-%23FF1493?style=for-the-badge&logo=openai&logoColor=white)
-
-#### 🗄️ Databases & Cloud  
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-%23FF1493?style=for-the-badge&logo=openai&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 🧰 Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,11 +48,6 @@ My focus areas include **AI engineering**, **web technologies**, and **system de
 ---
 
 
-### 🧭 Tech Journey  
-> “Software engineering is the art of turning ideas into impact.”  
-I build with creativity, precision, and purpose — aiming to make every line of code count.
-
----
 
 ### 📊 GitHub Analytics  
 
@@ -71,8 +57,3 @@ I build with creativity, precision, and purpose — aiming to make every line of
   <img width="48%" src="https://streak-stats.demolab.com?user=sikar16&theme=radical&hide_border=false" />
 </p>
 
-
-### ✨ Fun Fact  
-> “The best code is not the one that works — it’s the one that others love to maintain.”  
-
-⭐ **If you like my work, give it a star — or let’s build something together!**
