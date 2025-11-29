@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF69B4&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there+👋;+I'm+Sikar+Yosef.;Software+Engineer+|+Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A52A2A&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there+👋;+I'm+Sikar+Yosef.;Software+Engineer+|+Full-Stack+Developer;" />
 
 ---
 
