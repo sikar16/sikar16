@@ -1,19 +1,23 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=A52A2A&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there+👋;+I'm+Sikar+Yosef.;Software+Engineer+|+Full-Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&color=A52A2A&center=false&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+I'm+Sikar+Yosef.;Software+Engineer+|+Full-Stack+Developer;" />
 
 ---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a Software Engineer passionate about designing intelligent, scalable, and user-centered systems.
-My focus areas include web technologies, system design, and I am currently learning Flutter to build modern mobile applications.
+I am a **Software Engineer** with a strong interest in building **scalable, efficient, and user-focused systems**.  
+My experience spans **full-stack web development**, **system design**, and modern development practices.
 
-💡 Exploring cutting-edge frameworks and agentic AI systems.
-⚙️ Building automation tools and backend APIs.
-🤝 Open to collaborations and impactful tech opportunities.
+I am currently **learning Flutter** to develop **cross-platform mobile applications**, expanding my skill set beyond the web ecosystem.
+
+- Focused on clean architecture and maintainable code  
+- Interested in **agentic AI systems** and intelligent automation  
+- Experienced in designing and building **backend APIs** and automation tools  
+- Open to **collaborations**, internships, and impactful engineering opportunities  
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikar-yosef-409821289)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sikar_1.6?igsh=MWxpaXQwaXUyd3JhOA==)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram&logoColor=white)](https://t.me/Sikuta_16)
@@ -21,39 +25,44 @@ My focus areas include web technologies, system design, and I am currently learn
 
 ---
 
-### 💻 Tech Stack  
- 
+## 💻 Technical Skills
+
+### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) 
-![AI](https://img.shields.io/badge/AI-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-%23FF1493?style=for-the-badge&logo=openai&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Databases & Platforms
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### Emerging Interests
+![AI](https://img.shields.io/badge/Artificial_Intelligence-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-%23FF1493?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-
-
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikar16&langs_count=8&layout=compact&theme=radical&hide_border=false&hide=html,css,scss" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikar16&langs_count=8&layout=compact&theme=radical&hide_border=false&hide=html,css,scss" />
   <img width="48%" src="https://streak-stats.demolab.com?user=sikar16&theme=radical&hide_border=false" />
 </p>
-
