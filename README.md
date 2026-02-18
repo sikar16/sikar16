@@ -58,11 +58,11 @@ I am currently **learning Flutter** to develop **cross-platform mobile applicati
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-%23FF69B4.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-%23FF1493?style=for-the-badge&logo=openai&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikar16&langs_count=8&layout=compact&theme=radical&hide_border=false&hide=html,css,scss" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=sikar16&theme=radical&hide_border=false" />
+<p align="center" style="display: flex; justify-content: start; gap: 10px;">
+    <a href="https://github.com/sikar16?tab=repositories">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sikar16&theme=gotham&show_icons=true&count_private=true&cache_seconds=0&v=2" />
+    </a>
 </p>
+
